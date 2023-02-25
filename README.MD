@@ -1,9 +1,9 @@
 
 # **<u>API Documentation</u>**
 # **Express Task-Manager**
+[**Postman Documentation**](https://documenter.getpostman.com/view/20578649/2s93CPqXSH)
 
-This collection contains sample request from this API.
-
+This collection contains sample request from this API. 
 It contains following requests.
 * Get all Tasks
 * Get a Single Task
@@ -524,5 +524,8 @@ app.listen(  port,
 ```
 This block of code starts the server and logs in console on which port is server is running, now server is up and running and ready for any requests.
 
-
+### Credits:
+* [freecodecamp.org](https://www.youtube.com/@freecodecamp)
+* [codingaddict](https://johnsmilga.com/)
+* [John Smilga](https://github.com/john-smilga)
 
